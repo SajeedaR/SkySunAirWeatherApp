@@ -63,7 +63,6 @@ main {
   color: rgba(39, 33, 66, 0.4);
   line-height: 24px;
   font-weight: 500;
-   
 }
 
 .weather-app-details strong {
@@ -83,6 +82,7 @@ main {
   font-size: 88px;
   line-height: 88px;
   font-weight: bold;
+  display: flex;
 }
 
 .weather-app-unit {
@@ -105,8 +105,8 @@ main {
 }
 
 .weather-forecast-icon {
-  width: 44px;
-  height: 44px;
+  width: 60px;
+  height: 60px;
   display: block;
   margin: 0;
 }
